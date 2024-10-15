@@ -1,9 +1,9 @@
 body {
     overflow: hidden;
-    /* background: url(../pics/bg.jpg) center top; */
     margin: 0;
     padding: 0;
-    background-color: #ff6bcd;
+        background-color: #ff6bcd;
+
 }
 
 .magazine-viewport .container {
